@@ -5,7 +5,9 @@ sudo kubeadm init \
 Follow link:
 https://rancher.com/docs/rancher/v2.x/en/installation/resources/advanced/air-gap-helm2/install-rancher/
  
-## Install cert-manager(do not follow this)
+## Install cert-manager
+
+https://cert-manager.io/docs/installation/kubernetes/
 
 Note cert version
 
