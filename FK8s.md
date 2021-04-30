@@ -50,3 +50,5 @@ spec:
       targetPort: 9376
   externalIPs:
     - 80.11.12.10
+
+https://www.ovh.com/blog/getting-external-traffic-into-kubernetes-clusterip-nodeport-loadbalancer-and-ingress/
